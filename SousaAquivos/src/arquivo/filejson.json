@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Antonio Mauricio",
+    "login": "sousa",
+    "senha": "123",
+    "cpf": "068.384.113-00"
+  },
+  {
+    "nome": "Lucas Emanuel",
+    "login": "sousa1",
+    "senha": "123",
+    "cpf": "087.387.123-00"
+  }
+]
